@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Niekv1
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning how to create a discord bot
-- 📫 How to reach me discord: !niek#0436
+- 👋 Hoi, Ik ben Niek
+- 🛠 Ik hou me momeneteel bezig met node.js en ben aan het oefenen met python
+- 📫 Ik ben bereikbaar op discord: Mister_Niek#1175
